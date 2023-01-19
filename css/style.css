@@ -1,0 +1,12 @@
+@media (max-width:2000px) {
+    .main{
+        margin-top:145px;
+    }
+}
+
+
+@media (max-width:940px) {
+    .main{
+        margin-top:100px;
+    }
+}
