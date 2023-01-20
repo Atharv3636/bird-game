@@ -13,7 +13,7 @@ const assets = [
     '/audio/audio_sfx_swooshing.wav'
 ];
 
-// install service workers
+// install service worker
 self.addEventListener('install', evt =>{
     //console.log('service worker instal done')
     evt.waitUntil(
